@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hasibul Hasan.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning & working on React.
-- 💞️ I’m looking to collaborate on web development project.
+- 🌱 I’m currently working on React & Next.js.
+- 💞️ I’m looking to collaborate on your web development project.
 - 📫 Reach me at hasibshanto85@gmail.com
 
 <!---
